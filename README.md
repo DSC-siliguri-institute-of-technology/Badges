@@ -1,1 +1,1 @@
-# Info-Session-Badge
+# Badge
